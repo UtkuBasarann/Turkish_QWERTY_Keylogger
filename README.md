@@ -6,7 +6,7 @@ A simple keylogger written in Python, compatible with \*\*Turkish QWERTY keyboar
 
 
 
-> ⚠️ \*\*DISCLAIMER:\*\* This project is intended \*\*for educational and self-testing purposes only\*\*. Monitoring computer activity without explicit permission is illegal and unethical. The developer is not responsible for any misuse of this software.
+>⚠️ \*\*DISCLAIMER:\*\* This project is intended \*\*for educational and self-testing purposes only\*\*. Monitoring computer activity without explicit permission is illegal and unethical. The developer is not responsible for any misuse of this software.
 
 
 
