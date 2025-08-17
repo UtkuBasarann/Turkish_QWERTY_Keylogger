@@ -6,7 +6,7 @@ A simple keylogger written in Python, compatible with **Turkish QWERTY keyboards
 
 ---
 
-## 🚀 Installation
+## Installation
 
 1. **Install dependency:**
 
@@ -31,7 +31,7 @@ A simple keylogger written in Python, compatible with **Turkish QWERTY keyboards
 
 ---
 
-## 📁 Log File Location
+## Log File Location
 
 Keystrokes are saved to:
 
@@ -43,7 +43,7 @@ Once the file size reaches **500 bytes**, its contents are emailed and the file 
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 - Every keystroke is captured via `Listener`.
 - Turkish Q keyboard logic is handled using **Shift**, **CapsLock**, and **AltGr** conversions.
@@ -53,7 +53,7 @@ Once the file size reaches **500 bytes**, its contents are emailed and the file 
 
 ---
 
-## 📌 Notes
+## Notes
 
 - For Gmail SMTP, you may need to enable **"Allow less secure apps"** under your Google account.
 - Use only on **your own device for test/learning purposes.**
@@ -61,7 +61,7 @@ Once the file size reaches **500 bytes**, its contents are emailed and the file 
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 Utku B.
 
